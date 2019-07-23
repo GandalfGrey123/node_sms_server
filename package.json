@@ -1,0 +1,23 @@
+{
+  "name": "node_sms_server",
+  "version": "1.0.0",
+  "description": "sms server implemented with node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GandalfGrey123/node_sms_server.git"
+  },
+  "author": "Marcus Wong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GandalfGrey123/node_sms_server/issues"
+  },
+  "homepage": "https://github.com/GandalfGrey123/node_sms_server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
